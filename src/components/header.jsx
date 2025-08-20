@@ -1,3 +1,5 @@
+"use-client"
+
 import React from 'react'
 import ThemeToggleButton from "@/components/ui/theme-toggle-button"
 
